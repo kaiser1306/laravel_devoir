@@ -104,7 +104,7 @@ const ProductList = () => {
                                     <h5 className="card-title">{product.name}</h5>
                                     <p className="card-text">{product.description}</p>
                                     <p className="card-text">
-                                        <strong>Prix:</strong> {product.price} €
+                                        <strong>Prix:</strong> {product.price} FCFA
                                     </p>
                                     <p className="card-text">
                                         <strong>Quantité:</strong> {product.quantity}

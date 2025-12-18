@@ -193,7 +193,7 @@ const EditProductForm = () => {
                                                     onChange={handleChange}
                                                     required
                                                 />
-                                                <span className="input-group-text">€</span>
+                                                <span className="input-group-text">FCFA</span>
                                             </div>
                                         </div>
                                     </div>
